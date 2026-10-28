@@ -1,6 +1,10 @@
 # Mars Rover Flutter
 
-Flutter port of the native Android Mars Rover app in the sibling `MarsRoverApp` directory.
+Flutter port of the native Android Mars Rover app in `MarsRoverApp` directory.
+
+<img width="400" height="820" alt="Simulator Screenshot - iPhone 16 Pro - 2026-10-28 at 10 50 45" src="https://github.com/user-attachments/assets/a644852d-494e-48e8-937c-fe6907aebddf" />
+<img width="400" height="820" alt="Simulator Screenshot - iPhone 16 Pro - 2026-10-28 at 10 50 55" src="https://github.com/user-attachments/assets/0e7cbbb6-f69e-4d37-b663-5e99342b1ad7" />
+
 
 ## Features
 
